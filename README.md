@@ -9,3 +9,4 @@ The copyright of this work remains with Ajahn Brahm, for free, non-commercial us
 
 # How to use
 Click the green "Code" button, and select "download Zip": this should allow you to download the PDF(s). 
+Or click the file you want to download, and click "download raw file".
